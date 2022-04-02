@@ -1,20 +1,23 @@
+.main-div{
+  display: flex;
+  justify-content: space-between;
+}
+
 .first {
   background-color: aquamarine;
-  display: inline-block;
-  text-align: center;
   width: 40%;
+  text-align: center;
 }
 .second {
-  background-color: aqua;
-  display: inline-block;
+  background-color: aqua; 
   width: 15%;
-  text-align: center;
   font-size: medium;
+  text-align: center;
 }
 .third {
   background-color: darkcyan;
-  display: inline-block;
   width: 44.3%;
-  text-align: center;
   font-size: medium;
+  text-align: center;
 }
+

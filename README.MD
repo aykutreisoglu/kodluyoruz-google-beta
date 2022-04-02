@@ -1,3 +1,4 @@
-### Google Beta websitesi 
+## Google Beta websitesi 
+Aşağıdaki resimde bitmiş hali gözükmektedir.
 
-Linkleri bilerek eklemedim sadece görsel olarak yapmaya çalıştım.
+![image](../googleBeta/figures/finishedGoogleBeta.PNG)
